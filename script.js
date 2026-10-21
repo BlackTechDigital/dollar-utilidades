@@ -1,7 +1,7 @@
 'use strict';
 // CONFIGURAÇÃO: substitua apenas após confirmar o WhatsApp OFICIAL da empresa.
 // Exemplo de formato: '5516999999999'. Não use o telefone fixo como WhatsApp.
-const WHATSAPP_NUMBER = '';
+const WHATSAPP_NUMBER = '5516996462415';
 const PRODUCTS = [
 {id:1,photo:'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=650&q=80',name:'Conjunto de potes organizadores',category:'Casa & Organização',desc:'Ideia ilustrativa para manter tudo no lugar.',price:'Preço sob consulta',icon:'storage',color:'#dce7db'},
 {id:2,photo:'https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=650&q=80',name:'Jogo de utensílios de cozinha',category:'Cozinha',desc:'Inspiração para facilitar o preparo diário.',price:'Preço sob consulta',icon:'utensils',color:'#f0e1d3'},
